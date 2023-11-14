@@ -25,7 +25,8 @@ npm install
 
 ## Run
 npm run dev
-Local environment is served over http://localhost:3000 
+Local environment is served over 
+http://localhost:3000 
 
 ## Access
 Open [http://localhost:8090](http://localhost:8090) with your browser to see the front end application.
