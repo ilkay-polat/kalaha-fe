@@ -16,8 +16,8 @@ Please follow the setup statements explained below:
 * Start nginx webserver: 'brew services start nginx'
 
 ## Tech Stack 
-* Next React Framework
-* Local Storage of Broswer
+* Next.js
+* Local Storage of Browser
 * Radix UI Theme
 
 ## Build
