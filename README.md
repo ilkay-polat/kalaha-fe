@@ -25,6 +25,7 @@ npm install
 
 ## Run
 npm run dev
+
 Local environment is served over 
 http://localhost:3000 
 
